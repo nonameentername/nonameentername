@@ -1,11 +1,11 @@
 # Werner Mendizabal
 
 **Independent game developer · software engineer · musician · artist**
-Building developer tools, educational resources, and original games through **TecunHuman**.
+Building developer tools, educational resources, and original games through **[TecunHuman](https://tecunhuman.com/)**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nonameentername-181717?logo=github)](https://github.com/nonameentername)
 [![Patreon](https://img.shields.io/badge/Support-TecunHuman-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/cw/tecunhuman)
-[![Focus](https://img.shields.io/badge/Focus-Godot%20Audio%20Tech-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![Focus](https://img.shields.io/badge/Focus-Godot%20Audio%20Tech-478CBF?logo=godotengine&logoColor=white)](https://indiegamedev.org/tools/tecunhuman)
 
 My work focuses on making advanced creative and engineering workflows more accessible to indie developers. I release many of my tools, examples, and selected game projects as open source, use them in real games and prototypes, and share what I learn through tutorials and technical demonstrations.
 
